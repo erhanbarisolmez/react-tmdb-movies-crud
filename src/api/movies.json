@@ -1,0 +1,67 @@
+{
+  "movies": [
+    {
+      "name": "Blitz ",
+      "rating": "7.5",
+      "overview": "A tough, renegade cop with a gay sidekick is dispatched to take down a serial killer who has been targeting police officers. AÇIKLAMA AÇIKLAMA",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCPMjT8Ld8tvs1zs7LY2jpKlRIK.jpg",
+      "id": 12
+    },
+    {
+      "name": "Esrarengiz Canavar ",
+      "rating": "6",
+      "overview": "Norveç dağlarındaki bir patlamanın kadim bir trolü uyandırmasının ardından, cesur bir paleontolog bu trolün ölüm saçarak ortalığı kasıp kavurmasını önlemekle görevlendirilir.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z4jRr43JdtU66P0iy8h18OyLql.jpg",
+      "id": 14
+    },
+    {
+      "name": "Avatar ",
+      "rating": "7.6",
+      "overview": "Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende görevinin başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/unbrtK8zEjPANvNkbwhjpSxYWzN.jpg",
+      "id": 15
+    },
+    {
+      "name": "Thor: Aşk ve Gök Gürültüsü",
+      "rating": "6.7",
+      "overview": "Thor şimdiye kadar karşılaştığı hiçbir maceraya benzemeyen bir yolculuğa çıkıyor; iç huzur yolculuğuna. Ancak emekliliği, tanrıların yok edilmesini isteyen Gorr the God Butcher olarak bilinen galaktik bir katil tarafından kesintiye uğruyor. Karşılaştığı bu tehditle mücadele etmek için Thor, Kral Valkyrie , Korg ve şaşırtıcı bir şekilde çekici Mjolnir'i “Güçlü Thor” olarak kullanan eski kız arkadaşı Jane Foster'ın yardımına başvuruyor. Birlikte, Gorr the God Butcher’ın intikamının gizemini ortaya çıkarmak ve çok geç olmadan onu durdurmak için korkunç bir kozmik maceraya atılıyorlar.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8bTL6JQEhwX1JEredQSDF3S1BCS.jpg",
+      "id": 16
+    },
+    {
+      "name": "Avatar: Suyun Yolu",
+      "rating": "7.8",
+      "overview": "Avatar'da yaşanan olaylardan birkaç yıl sonra Jake ve Neytiri Pandora'da kendi ailelerini kurmuştur. Ancak onlar evlerini terk etmek zorunda kalır. Bu yüzden Jake ve Neytiri, suyun yüzeri ve altı dahil olmak üzere Pandora'nın dışındaki yerleri keşfetmeye başlar.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mU50tC79PKrNmQjk9JyfI2f0AEf.jpg",
+      "id": 17
+    },
+    {
+      "name": "W ",
+      "rating": "8.5",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6EEuutv4vyiybp3T08SZ8JQ1pw4.jpg",
+      "overview": "Babası tarafından yaratılan webtoon dünyasına çekilen bir cerrahi asistanı, öykünün kahramanının da karıştığı gizemli bir cinayete bulaşır.",
+      "id": 18
+    },
+    {
+      "name": "Big Mouth ",
+      "rating": "8.3",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
+      "overview": "Dizi, hiçbir zaman başarılı olamayan üçüncü sınıf bir avukat Park Chang Ho'nun tesadüfen bir cinayet davasının sorumluluğunu üstlenip gizli gerçeği daha da derinlemesine araştırmasıyla ortaya çıkan tuhaf olaylar etrafında dönmektedir. Karıştığı cinayet davasının ardından bir şekilde dahi dolandırıcı Büyük Fare olarak parmaklanır. Böylece kendini hayati tehlike arz eden bir durumun ortasında bulur.",
+      "id": 19
+    },
+    {
+      "name": "Doom at Your Service ",
+      "rating": "9",
+      "overview": "Dokunduğu her şeyin yok olmasına neden olan 'yıkım' adı ile bilinen bir adam (Seo In-Guk) ile kaderini değiştirmek için hayatını tehlikeye atan bir kadının (Park Bo-Young) etrafında dönmektedir.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o1aus1uSJH0S4FDUlBRCSfKEKuW.jpg",
+      "id": 20
+    },
+    {
+      "name": "The Legend of the Blue Sea ",
+      "rating": "7.2",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/53jwAXhPgSZDjTmtbxvf9nlQu0f.jpg",
+      "overview": "Kore’nin ilk tarihi hikaye kitabındaki denizkızı hikayesinden alınan motiflerin mevcut olduğu bir fantastik-romantik dizidir. Joseon dönemindeki bu kitapta, gerçek bir karakter olan Kim Dam Nyeong’un balıkçıların yakaladığı deniz kızlarını ve adamlarını tekrar denize salması anlatılmaktadır.",
+      "id": 21
+    }
+  ]
+}
